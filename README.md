@@ -1,1 +1,1 @@
-This repo contains conde I wrote to solve Hackerrank Time Conversion problem question
+This repo contains code I wrote to solve Hackerrank Problem Question on time conversion
